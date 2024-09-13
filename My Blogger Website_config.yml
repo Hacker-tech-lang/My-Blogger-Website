@@ -1,0 +1,8 @@
+title: My Blogger Website
+description: A simple Blogger-style blog created with HTML and CSS.
+baseurl: "" # Leave blank unless adding the site under a subdirectory.
+url: "https://<Hacker-tech-lang>.github.io" # Your GitHub Pages URL.
+author: 
+  name: "Your Name"
+  email: "spawnpointmedia@.com"
+  
